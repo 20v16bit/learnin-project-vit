@@ -33,3 +33,4 @@ To start the application run `APP_PORT=9090 python main.py ` and follow to the a
 -  For runing an appliction you should use a Docker( Dockerfile attached to project)
 - default address http://0.0.0.0:8080
 - how build and run docker image you can find at link https://docs.docker.com/language/nodejs/run-containers/
+#updated 
